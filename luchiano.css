@@ -1,0 +1,92 @@
+.lol{
+    border:1px solid#00ff00;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.frase h1{
+    font-size: 46px;
+    font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
+    color: red;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.menu-img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu-img ul{
+    list-style:none;
+    display: flex;
+}
+.cad{
+    border-radius: 15px !important;
+    border-color: 1px solid#000 !important;
+}
+.check{
+    border: 1px solid #F7F7F7 !important;
+    border-radius: 12px !important;
+    background-color: #FFFFFF !important;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.08) !important;
+}
+.experiencia li a{
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+}
+.menu-img li a{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+}
+.menu-img li a:hover{
+    border-radius: 10px;
+    background-color: #f0f0f5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.experiencia ul{
+    list-style: none;
+    display: flex;
+    justify-content: start;
+}
+.experiencia li{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.photos-api{
+    width: 350px;
+    height: 280px;
+}
+.tamanho-h4{
+    font-size: 13px;
+}
+.forBnB{
+    border:0px !important;
+    border-top: 0px !important;
+    width: 100%;
+    height: 40px;
+}
+.sp{
+    font-size: 10px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+.ajustebnb{
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
